@@ -66,7 +66,3 @@ Once upon a time there was a small model written in C that tried to tell stories
 
 ## 🎯 Purpose
 This project is **not meant to rival PyTorch/TensorFlow**, but to show that GPT inference can be expressed in **a single C file**. Perfect for learning, tinkering, and embedding into lightweight systems.
-
----
-
-Now the code is self-documented with this README at the top. 🚀
